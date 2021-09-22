@@ -1,0 +1,36 @@
+Two types of datatypes:datatype is used to store the data
+1)primitive:predefining data;key words
+a)byte:1,0
+b)short:2byte
+c)int:4byte
+d)long:8byte
+e)float:4byte
+f)double:8byte
+g)char:2byte
+h)boolean:1bit
+
+2)Non-primitive:
+a)class
+b)string
+c)object
+
+
+
+
+variable:it is a container which contains a data according to datatype.
+instance:declaring outside the method and inside the class.
+static:varible which is addressed using static inside the cls and outside the method.
+local:declaring in the method,we have to initialize while declaring.
+parameters:variable 
+class:variables which can be exceed within the class.
+method:variables which can be execced within the method.
+
+
+Mehods:-
+syntax:-type of method-return type-method name(){
+
+Static:-
+1)
+
+
+
