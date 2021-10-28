@@ -1,15 +1,13 @@
 class Engineering{
+String Branch;
+String College;
+String Place;
+String University;
+String Dept;
 
-String name;
-public void problemSolving(String name){
-
-System.out.println("Problem Solved by engineer\n");
-
-
-} 
-
-
+public String problemSolving(){
+return "The problemsolved by "+ Dept +" Engineer";
 
 }
 
-
+}
